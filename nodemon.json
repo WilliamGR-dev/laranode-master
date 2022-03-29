@@ -1,0 +1,12 @@
+{
+  "restartable": "rs",
+  "verbose": true,
+  "watch": [
+    "routes/",
+    "app/",
+    "bootstrap/",
+    "config/"
+  ],
+  "ext": "js json",
+  "delay": 500
+}

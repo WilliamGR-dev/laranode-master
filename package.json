@@ -1,0 +1,14 @@
+{
+  "name": "laranode",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node_modules/.bin/nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "pg": "^8.7.3",
+    "nodemon": "^2.0.13"
+  }
+}
